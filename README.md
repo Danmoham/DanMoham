@@ -26,7 +26,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/Danmoham)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Danmoham)
 [![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Danmoham)
-[![svelte](https://img.shields.io/badge/evlete-black?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Danmoham)
+[![svelte](https://img.shields.io/badge/svlete-black?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Danmoham)
 
 
 <p align="center">
