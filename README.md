@@ -22,7 +22,7 @@
 [![Prisma.io](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](hhttps://github.com/Danmoham)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/Danmoham)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Danmoham)
-[!][Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)(https://github.com/Danmoham)
+[![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Danmoham)
 
 <p align="center">
   <a href="https://github.com/Danmoham">
