@@ -1,9 +1,9 @@
-<h1 align="center">Hi, Everyon! 👋</h1>
+<h1 align="center">Hi, Everyone! 👋</h1>
 
 <p align="center">
     <b>Welcome to my Github Account!</b><br><br>
     <i>
-        Junior Software Developer pro<br>
+        Junior Software Developer excited with a passion for software development<br>
     </i><br>
     <a href="https://www.linkedin.com/in/daniel-mohammadian-60937b263/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -22,6 +22,7 @@
 [![Prisma.io](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](hhttps://github.com/Danmoham)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/Danmoham)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Danmoham)
+[!][Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)((https://github.com/Danmoham))
 
 <p align="center">
   <a href="https://github.com/Danmoham">
