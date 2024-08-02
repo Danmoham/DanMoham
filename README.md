@@ -13,7 +13,7 @@
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Danmoham)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Danmoham)
+[![Typescript](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=typescript)](https://github.com/Danmoham)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/Danmoham)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css&logoColor=white)](https://github.com/Danmoham)
 
