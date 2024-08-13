@@ -23,7 +23,6 @@
 
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/Danmoham)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Danmoham)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/Danmoham)
 [![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Danmoham)
 [![svelte](https://img.shields.io/badge/svlete-black?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/Danmoham)
 [![Next-js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next&logoColor=white)](https://github.com/Danmoham)
