@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my Github Account!</b><br><br>
     <i>
-        Junior Software Developer excited with a passion for software development<br>
+        Front end software developer<br>
     </i><br>
     <a href="https://www.linkedin.com/in/daniel-mohammadian-60937b263/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
